@@ -1,7 +1,7 @@
 ## Ref List 
 [A cosmological signature of the SM Higgs instability: gravitational waves](file:///Users/lyuzhenhong/Desktop/Academic/Research/Espinosa_2018_J._Cosmol._Astropart._Phys._2018_012_HiggsVacuumInstability_GW.pdf)
 [Cosmological Signature of the Standard Model Higgs Vacuum Instability: Primordial Black Holes as Dark Matter](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/10.1103_PhysRevLett.120.121301_HiggsVacuumInstability_PBH.pdf)
-[Cosmological implications of the Higgs mass measurement](file:///Users/lyuzhenhong/Desktop/Academic/Research/Espinosa_2008_J._Cosmol._Astropart._Phys._2008_002.pdf)
+[Cosmological implications of the Higgs mass measurement](file:///Users/lyuzhenhong/Desktop/Academic/Research/Espinosa_2008_J._Cosmol._Astropart._Phys._2008_002_Cosmological%20implications%20of%20the%20Higgs%20mass%20measurement.pdf)
 [The cosmological Higgstory of the vacuum instability](file:///Users/lyuzhenhong/Desktop/Academic/Research/JHEP09(2015)174_The%20cosmological%20Higgstory.pdf)
 [Electroweak Vacuum Stability in Light of BICEP2](file:///Users/lyuzhenhong/Desktop/Academic/Research/PhysRevLett.112.201801_EW_VacuumStability_BICEP2.pdf)
 [Spacetime Curvature and the Higgs Stability During Inflation](file:///Users/lyuzhenhong/Desktop/Academic/Research/PhysRevLett.113.211102_Curvature_HiggsStability.pdf)
@@ -10,14 +10,14 @@
 ## Introduction
 
 In the context of the SM with no additional physics, our universe lies at the edge between stability and instability (near-criticality) of the electroweak vacuum. The Higgs potential develops an instability well below the Planck scale.
-- If the effective mass of the Higgs field is smaller than the Hubble rate $H$ during inflation, ==quantum excitations push the Higgs field away from its minimum==. The classical value of the Higgs field ==randomly walks== receiving kicks $\sim \pm H/(2\pi)$ (the effective Gibbons-Hawking temperature [1](file:///Users/lyuzhenhong/Desktop/Academic/Research/JHEP09(2015)174_The%20cosmological%20Higgstory.pdf)) each Hubble time and can surmount the potential barrier and ==fall deep into the unstable side of the potential==.
+- If the effective mass of the Higgs field is smaller than the Hubble rate $H$ during inflation, ==quantum excitations push the Higgs field away from its minimum==. The classical value of the Higgs field ==randomly walks== receiving kicks $\sim \pm H/(2\pi)$ (the effective Gibbons-Hawking temperature [1](file:///Users/lyuzhenhong/Desktop/Academic/Research/Higgs_Inflation/JHEP09(2015)174_The%20cosmological%20Higgstory.pdf)) each Hubble time and can surmount the potential barrier and ==fall deep into the unstable side of the potential==.
 
-One can derive upper bounds on $H$, which depend on the reheating temperature $T_{RH}$ and on the Higgs coupling to the scalar curvature or to the inflaton.
+One can derive upper bounds on $H$, which depends on the reheating temperature $T_{RH}$ and on the Higgs coupling to the scalar curvature or to the inflaton.
 - Patches in which the Higgs field probes the unstable part of the potential can be recovered thanks to the thermal effects after inflation. Indeed, the mass squared of the Higgs field receives a positive correction proportional to $T^2$ in such a way that in those would-be dangerous regions the Higgs field can roll back down to the origin and be safe.
 
 ### General Picture
 1. During inflation, there are patches where the Higgs field has been pushed by quantum fluctuations beyond the potential barrier and is classically rolling down the slope. 
-2. ==Higgs perturbations instead grow to large values in the last e folds of inflation==, which are <u>irrelevant for observations in the CMB</u> (CMB probes 大尺度-暴胀早期的物理). 
+2. ==Higgs perturbations instead grow to large values in the last e-folds of inflation==, which are <u>irrelevant for observations in the CMB</u>.
 3. When inflation ends and reheating takes place, these regions are rescued by thermal effects and the Higgs field rolls down to the origin of its potential. 
 4. At later times, the Higgs perturbations reenter inside the Hubble radius, and they provide high peaks in the matter power spectrum that give rise to primordial black holes (PBH)
 

@@ -32,15 +32,15 @@ $\psi$场的有效质量平方为$M^2(\phi)\sim g^2\phi_c\Delta\phi=\lambda m^2M
 The original hybrid model in the false vacuum regime generically predicts a ==blue spectrum== of scalar perturbations.
 - [Lindle hybrid inflation](file:///Users/lyuzhenhong/Desktop/Academic/Research/physrevd.49.748_hybrid_inflation.pdf)
 - [False vacuum inflation with Einstein gravity](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/PhysRevD.49.6410_False-vacuum-inflation-with-Einstein-gravity.pdf)
--  Since $V\simeq V_0$, the scalar potential is very flat, and so the $\varepsilon$ slow-roll parameter is extremely small. This means that the spectral index in is given by $n_s \simeq 1 + 2\eta$. The potential for quadratic or quartic inflation is curved upwards, meaning $V'' > 0$. Consequently, $\eta > 0$  which would result in a blue spectrum of scalar curvature perturbations $n_s > 1$.
+-  Since $V\simeq V_0$, the scalar potential is very flat, and so the $\varepsilon$ slow-roll parameter is extremely small. This means that the spectral index is given by $n_s \simeq 1 + 2\eta$. The potential for quadratic or quartic inflation is curved upwards, meaning $V'' > 0$. Consequently, $\eta > 0$  which would result in a blue spectrum of scalar curvature perturbations $n_s > 1$.
 
 
 ### 相变时的量子涨落导致PBH产生
-$\psi$的负质量导致其运动方程为负频率的谐振子方程，会引发量子涨落的指数增长，进视界带来很大的密度扰动（包括 inflating topological defect）。[1996 Juan Garc´ıa-Bellido, Andrei Linde and David Wands](file:///Users/lyuzhenhong/Desktop/Academic/Research/9605094_Density-Perturbations-and-Black-Hole-Formation-in-Hybrid-Inflation.pdf)
+$\psi$的负质量导致其运动方程为负频率的谐振子方程，会引发量子涨落的指数增长，进视界带来很大的密度扰动（包括 inflating topological defect）。[1996 Juan Garc´ıa-Bellido, Andrei Linde and David Wands](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/9605094_Density-Perturbations-and-Black-Hole-Formation-in-Hybrid-Inflation.pdf)
 
 Large curvature perturbations on smaller scales than the ones probed by CMB anisotropy experiments can also be generated during inflation, e.g. for hybrid models ending with a fast (in terms of e-folds of expansion) waterfall phase. In this case, ==exponentially growing modes of a tachyonic auxiliary field== induce order one curvature perturbations.
 
-#### Expoential growth
+#### Exponential growth
 [Lyth 1107.1681](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/1107.1681_PBH-formation-and-hybrid-inflation.pdf)
 $$V(\phi,\chi)=V_0+V(\phi)+\frac{1}{2}m^2(\phi)\chi^2+\frac{\lambda}{4}\chi^4$$
 其中$m^2(\phi)=g^2\phi^2(t)-m^2=g^2(\phi^2-\phi_c^2)$，$V_0=\frac{M^4}{4\lambda}$。$g,\lambda\ll 1$，$m\gg H$
@@ -85,7 +85,7 @@ $$
 在$k_*$处有峰值。
 
 - In the standard picture of hybrid inflation, the corresponding scales reenter the horizon shortly after the end of inflation, leading to the formation of PBHs with relatively low masses: $M_{PBH} \sim \mathcal{O}(10) kg$. These PBHs evaporate in a very short time, compared to the age of the Universe, and cannot contribute to dark matter today. This process can nevertheless eventually contribute to the reheating of the Universe.
-	- [9605094](file:///Users/lyuzhenhong/Desktop/Academic/Research/9605094_Density-Perturbations-and-Black-Hole-Formation-in-Hybrid-Inflation.pdf)
+	- [9605094](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/9605094_Density-Perturbations-and-Black-Hole-Formation-in-Hybrid-Inflation.pdf)
 	- [Lyth 1107.1681](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/1107.1681_PBH-formation-and-hybrid-inflation.pdf)
 	- [PRD103504](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/physrevd.85.103504_Formation-of-primordial%20black%20holes%20from%20non-Gaussian-perturbations-produced-in-a-waterfall-transition.pdf)
 
@@ -181,7 +181,9 @@ It is often assumed that this waterfall phase transition is sudden and inflation
 
 
 
+$$
 
+$$
 
 
 

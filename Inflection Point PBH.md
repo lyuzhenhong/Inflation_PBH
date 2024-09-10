@@ -1,4 +1,3 @@
-
 ## 单场慢滚暴胀模型中的功率谱增强
 文献中常用多场暴胀模型给出功率谱增强的机制。我们自然会问，单场暴胀是否可以有这样的机制。先驱工作 [Physics of the Dark Universe 18 (2017) 6–10](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/Primordial%20black%20holes%20from%20single%20field%20models%20of%20inflation.pdf) 提出了一个方法。
 在暴胀势中引入了一个near-inflection point，使得暴胀子在一段<u>较短的e-folds</u>内进入超慢滚阶段，在此阶段功率谱得到增强。

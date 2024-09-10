@@ -10,7 +10,7 @@
 	- 此类带有inflection-point的暴胀势可以自然在Higgs暴胀中出现
 	- [Primordial black holes and slow-roll violation](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/PhysRevD.96.063503_PBH_slowroll_violation.pdf)和[On primordial black holes from an inflection point](file:///Users/lyuzhenhong/Desktop/Academic/Research/PBH/On%20primordial%20black%20holes%20from%20an%20inflection%20point.pdf) 指出此类通过inflection-point使得慢滚参数突变的模型通常会遇到fine-tunning问题
 - Higgs Inflation
-	- [[Primordial Black Holes in Higgs Inflation]]
+	- [[Critical Higgs Inflation & Primordial Black Holes]]
 - Chaotic new inflation
 	- [[Chaotic new inflation]]
 - 多场暴胀
